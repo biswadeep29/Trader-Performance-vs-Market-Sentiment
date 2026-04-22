@@ -30,7 +30,7 @@ primetrade-assignment/
 │   └── etc
 │
 ├── README.md                   # This file
-└── Insites_And_Strategies.md                  # 1-page summary of insites and strategies
+└── Insites_And_Strategies.pdf                  # 1-page summary of insites and strategies
 ```
 
 ---
